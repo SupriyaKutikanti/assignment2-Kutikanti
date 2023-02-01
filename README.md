@@ -10,3 +10,7 @@ Sunrisers Hyderabad
 Bhuvneshwar Kumar
 Jagadeesha Suchith
 Rahul Tripathi
+* mumbai Indians
+  * cameron Green
+  * Riley Meredith
+  * Ishan Kishan
